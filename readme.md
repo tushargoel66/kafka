@@ -1,3 +1,6 @@
+# KAFKA and ZOOKEEPER installation in doker
+
+
 docker run --name zookeeper  -p 2181:2181 -d zookeeper
 
 
